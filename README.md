@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hey! I am Dmitri "Dima" Bryzgalov
 
-<!--
-**bryzgalovdm/bryzgalovdm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dmitri-bryzgalov/)
 
-Here are some ideas to get you started:
+## Who am I?
+I am a data scientist and ML engineer with a nerdy love for constructing automated data solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Adding value since 2017. I hold PhD in neuroscience.
+
+## ⚡ What sparks me
+- 📈🕒 Time series (data preparation, anomaly detection, forecasting)
+- ⚙️💻 DevOps and MLops
+- 🧩🏗️ Solution Architecture
